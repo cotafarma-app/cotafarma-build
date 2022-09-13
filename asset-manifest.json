@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8b87759.css",
+    "main.js": "/static/js/main.98a810d9.js",
+    "static/media/logo_redonda.png": "/static/media/logo_redonda.ab0c9f9c2f0e405195c6.png",
+    "index.html": "/index.html",
+    "main.a8b87759.css.map": "/static/css/main.a8b87759.css.map",
+    "main.98a810d9.js.map": "/static/js/main.98a810d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8b87759.css",
+    "static/js/main.98a810d9.js"
+  ]
+}
